@@ -12,6 +12,8 @@
   bottom: 375px;  
   font-size: 33px;
   width: 200px; 
+  font-family: "Work Sans", sans-serif;
+  font-weight: lighter;
 }
 .titulohome2{
     position: absolute;
@@ -21,10 +23,12 @@
   background-color: rgba(253, 252, 252, 0.3);
 }
 .abouttitulo{
-      position: absolute;  
+  position: absolute;  
   bottom: 375px;  
   font-size: 33px;
   width: 200px; 
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
 }
 .fondoabout{
   position: absolute;
@@ -42,6 +46,9 @@
     font-size: 28px;
     width: 100%;
     background-color: rgba(253, 252, 252, 0.3);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+
 }
 .john{
     position: absolute;
@@ -49,14 +56,19 @@
     color: teal;
     width: 100%;
     background-color: rgba(253, 252, 252, 0.3);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 200;
 }
 .aboutsubtitulo2{
-        position: absolute;
+    position: absolute;
     bottom: 160px;
     color: teal;
     font-size: 28px;
     width: 100%;
     background-color: rgba(253, 252, 252, 0.3);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+
 }
 .john2{
     position: absolute;
@@ -64,6 +76,8 @@
     color: teal;
     width: 100%;
     background-color: rgba(253, 252, 252, 0.3);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 200;
 
 }
 .menu{
@@ -80,13 +94,8 @@ li{
 
 }
 .video1{
-  width: 100%;
-  max-width: 500px;
-  height: 280px;
-  display: block;
-  margin: 0;     
-  border: none;
+border: none;
 }
 .video2{
-
+  border: none;
 }
