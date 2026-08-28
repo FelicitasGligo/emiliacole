@@ -97,10 +97,9 @@ ul{
   list-style-type: none;
 
 }
-.video1{
-border: none;
-}
-.video2{
+iframe {
+  width: 950px;
+  height: 650px;
   border: none;
 }
 .titulocontact{
