@@ -1,0 +1,64 @@
+.fondohome{
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 75%;     
+  height: 100vh;
+  object-fit: cover;
+  object-position: right center;
+}
+.titulohome{
+  position: absolute;  
+  bottom: 375px;  
+  font-size: 33px;
+  width: 200px; 
+}
+.titulohome2{
+    position: absolute;
+    width: 100%;
+    bottom: 8px;
+    font-size: 62px;
+  background-color: rgba(253, 252, 252, 0.629);
+}
+.abouttitulo{
+      position: absolute;  
+  bottom: 375px;  
+  font-size: 33px;
+  width: 200px; 
+}
+.fondoabout{
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 75%;     
+  height: 100vh;
+  object-fit: cover;
+  object-position: right center;
+}
+.aboutsubtitulo{
+    position: absolute;
+    bottom: 280px;
+    color: teal;
+    font-size: 28px;
+}
+.john{
+    position: absolute;
+    bottom: 250px;
+    color: teal;
+}
+.aboutsubtitulo2{
+        position: absolute;
+    bottom: 160px;
+    color: teal;
+    font-size: 28px;
+}
+.john2{
+    position: absolute;
+    bottom: 125px;
+    color: teal;
+
+}
+.menu{
+    color: grey;
+    font-size: 20px;
+}
