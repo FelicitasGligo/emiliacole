@@ -99,3 +99,27 @@ border: none;
 .video2{
   border: none;
 }
+.titulocontact{
+    font-family: "Raleway", sans-serif;
+}
+p{
+  font-family: "Open Sans", sans-serif;
+}
+.titulocontact{
+  font-family: "Raleway", sans-serif;
+}
+.h3contact{
+    font-family: "Raleway", sans-serif;
+}
+.management{
+  color: teal;
+}
+.booking{
+  color: teal;
+}
+.label{
+  color: teal;
+}
+.pr{
+  color: teal;
+}
